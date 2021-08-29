@@ -1,5 +1,7 @@
 import React from "react"
 
-export default function About() {
-  return <p>about</p>
+const About = () => {
+  return <p>aboutwe</p>
 }
+
+export default About
